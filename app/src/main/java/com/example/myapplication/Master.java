@@ -7,6 +7,8 @@ public class Master {
 
     private void get() {
         Log.i(TAG, "get: A");
+
+        
         Log.i(TAG, "get: D");
         Log.i(TAG, "get: E");
     }
